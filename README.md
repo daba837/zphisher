@@ -1,4 +1,4 @@
-<!-- Zphisher -->
+<!-- Zphishepkg install tur-repor -->
 
 <p align="center">
   <img src=".github/misc/logo.png">
